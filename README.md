@@ -24,38 +24,18 @@ This guide is intended for Computer Science students seeking an internship or un
 
 Online resources:
 
-- [Introduction to Computer Science,](https://www.udacity.com/course/cs101) Udacity
+- [CS50 edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- [CS50 Harvard](https://cs50.harvard.edu/2018/fall/weeks/)
 
 ### **Learn to code in (at least) one object-oriented programming language (C++, Java®, Python®)** Online resources for beginning programmers:
 
-- [Java Programming: An Introduction to Software,](https://www.coursera.org/specializations/java-programming) Duke University, Coursera
-- [Learn to Program: The Fundamentals,](https://www.coursera.org/learn/learn-to-program) University of Toronto, Coursera
-- [Introduction to Programming in Java,](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm) MIT
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Introduction to Interactive Programming in Python,](https://www.coursera.org/learn/interactive-python-1) Rice University, Coursera
 
 Online resources for more experienced programmers:
 
-- [Java Programming: Data Structures and Beyond,](https://www.coursera.org/specializations/java-object-oriented) University of California San Diego, specialization on Coursera
-- [Design of Computer Programs,](https://www.udacity.com/course/design-of-computer-programs--cs212) Udacity
-- [Learn to Program: Crafting Quality Code,](https://www.coursera.org/learn/program-code) University of Toronto, Coursera
-- [Introduction to Programming Languages,](https://cs.brown.edu/courses/cs173/2012/OnLine/) Brown University
-
-### **Learn other programming languages** Add to your repertoire:
-
-- JavaScript®
-- CSS & HTML
-- Ruby®
-- PHP®
-- C®
-- Perl®
-- Shell® script
-- Lisp®
-- Scheme®
-
-Online resources:
-
-- [Codecademy](https://www.codecademy.com/learn)
+- [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) Udacity
+- [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) University of Toronto, Coursera
 
  **Test your code** Learn how to catch bugs, create tests, and break your software.
 
@@ -80,6 +60,12 @@ Online resources:
 - [List of Algorithms,](https://en.wikipedia.org/wiki/List_of_algorithms) Wikipedia
 - [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) Wikipedia
 - Book: [The Algorithm Design Manual,](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) Steven S. Skiena
+- [Data structures in python](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513) Udacity
+
+
+### Test knowledge
+
+- [Google Tech Guide Challenges](https://techdevguide.withgoogle.com/paths/)
 
 ### **Develop a strong knowledge of operating systems** Online resources:
 
@@ -91,10 +77,6 @@ Online resources:
 - [Deep Learning,](https://www.udacity.com/course/deep-learning--ud730) Udacity
 - [Introduction to Robotics,](https://see.stanford.edu/Course/CS223A) Stanford University
 - [Machine Learning,](https://see.stanford.edu/Course/CS229) Stanford University
-
-### **Learn Android development** Online resources:
-
-- [Google Developer Training for Android,](https://developers.google.com/training/android/) on Udacity
 
 ### **Learn web development** Online resources:
 
