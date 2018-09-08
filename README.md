@@ -86,6 +86,10 @@ Online resources:
 
 - [Google Developer Training site](https://developers.google.com/training/)
 
+### **Learn UML and refactoring techniques** Online resources:
+
+- [Source Making](https://sourcemaking.com/)
+
 ### **Learn cryptography** Online resources:
 
 - [Cryptography,](https://www.coursera.org/course/crypto) Stanford, Coursera
