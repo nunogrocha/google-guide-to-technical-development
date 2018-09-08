@@ -61,7 +61,7 @@ Online resources:
 - [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) Wikipedia
 - Book: [The Algorithm Design Manual,](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) Steven S. Skiena
 - [Data structures in python](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513) Udacity
-
+- [CS Algorithms explained](https://medium.com/basecs)
 
 ### Test knowledge
 
